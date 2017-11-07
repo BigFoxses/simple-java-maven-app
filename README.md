@@ -1,4 +1,5 @@
 # simple-java-maven-app
+branch2
 
 This repository is for the
 [Using Jenkins to build a Java application with Maven](https://jenkins.io/doc/tutorials/building-a-java-app-with-maven/)
